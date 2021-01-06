@@ -18,3 +18,4 @@ console.log(s.count);
 console.log(s.peek());
 
 console.log(s.pop());
+console.log(s.peek());
